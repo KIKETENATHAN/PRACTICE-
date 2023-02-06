@@ -1,7 +1,11 @@
-body {background-attachment: aqua;
+body {padding-left: 50px;
+    background-attachment: aqua;
     image-rendering: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;}
-h1{color: rgb(255, 168, 127);}
-ul{ background-color: brown;}
-ul{background-image: micro.jpeg;}
+h1{color: rgb(16, 16, 17);
+text-align: justify;
+background-color: aquamarine;width: 200px; height:400px;}
+p{background-color: aquamarine;width: 200px;height: 400px;}
+ul{ background-color:aquamarine;width:200px; height: 400px;
+text-align:justify;}
