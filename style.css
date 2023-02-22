@@ -1,9 +1,12 @@
 body {padding-left: 50px;
-    background-attachment: aqua;
+    background-attachment: #00ff59;
     image-rendering: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;}
-h1{color: rgb(16, 16, 17);
-text-align: justify;
-background-color: aquamarine;width: 400px; height:400px;}
-p{background-color: blueviolet ;width: 400px;height: 400px;}
+    h1, h2, h3, h4, h5, h6 {
+        color: green;
+      }
+      
+text-align: center;
+background-color: rgb(182, 188, 186);}
+p{background-color: rgb(160, 157, 163) ;}
