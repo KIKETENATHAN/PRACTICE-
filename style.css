@@ -1,4 +1,5 @@
 body {padding-left: 100px;
+    padding-block-start: 100px;
     background-attachment: #00ff59;
     image-rendering: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
