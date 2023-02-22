@@ -5,7 +5,5 @@ body {padding-left: 50px;
     font-size: larger;}
 h1{color: rgb(16, 16, 17);
 text-align: justify;
-background-color: aquamarine;width: 200px; height:400px;}
-p{background-color: aquamarine;width: 200px;height: 400px;}
-ul{ background-color:aquamarine;width:200px; height: 400px;
-text-align:justify;}
+background-color: aquamarine;width: 400px; height:400px;}
+p{background-color: blueviolet ;width: 400px;height: 400px;}
