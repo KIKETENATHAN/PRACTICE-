@@ -1,12 +1,23 @@
-body {padding-left: 50px;
+body {padding-left: 100px;
     background-attachment: #00ff59;
     image-rendering: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: larger;}
+    font-size: larger;
+align-content: center;
+}body {
+    background-image: url("Agro.jpeg");
+    background-size: auto;
+    background-repeat: repeat;
+    background-position: center;
+    background-repeat: repeat-x ;
+    background-position: top;
+  }
+  
     h1, h2, h3, h4, h5, h6 {
-        color: green;
-      }
-      
-text-align: center;
-background-color: rgb(182, 188, 186);}
-p{background-color: rgb(160, 157, 163) ;}
+        color: rgb(172, 31, 31); }
+p{background-color:beige ;width: 1000px;height:fit-content;
+align-content: center; text-align: justify;
+border-color: #00ff59;
+border-radius: 0%;
+border-width: 200px; ;
+}
