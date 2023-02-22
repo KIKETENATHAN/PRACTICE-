@@ -5,17 +5,17 @@ body {padding-left: 100px;
     font-size: larger;
 align-content: center;
 }body {
-    background-image: url("Agro.jpeg"),url("selpher.jpg") ;
+    background-image: url("Agro.jpeg"),url("selpher.jpg");
     background-size: 50%, 50%;
     background-repeat: repeat;
     background-position: center;
     background-repeat: repeat-x, repeat-x;
     background-position: top, bottom;
-    
+ background-clip: inherit;   
   }
-  
     h1, h2, h3, h4, h5, h6 {
-        color: rgb(172, 31, 31); }
+        color: green; 
+    background-color: aliceblue;width: fit-content;}
 p{background-color:beige ;width: 1000px;height:fit-content;
 align-content: center; text-align: justify;
 border-color: #00ff59;
