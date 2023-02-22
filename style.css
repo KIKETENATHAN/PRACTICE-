@@ -5,12 +5,13 @@ body {padding-left: 100px;
     font-size: larger;
 align-content: center;
 }body {
-    background-image: url("Agro.jpeg");
-    background-size: auto;
+    background-image: url("Agro.jpeg"),url("selpher.jpg") ;
+    background-size: 50%, 50%;
     background-repeat: repeat;
     background-position: center;
-    background-repeat: repeat-x ;
-    background-position: top;
+    background-repeat: repeat-x, repeat-x;
+    background-position: top, bottom;
+    
   }
   
     h1, h2, h3, h4, h5, h6 {
