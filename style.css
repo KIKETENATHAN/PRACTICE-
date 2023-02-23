@@ -5,8 +5,9 @@ body {padding-left: 100px;
     image-rendering: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
-align-content: center;
-}body {
+align-content: center;;
+}
+body {
     background-image: url("Agro.jpeg"),url("selpher.jpg");
     background-size: 50%, 50%;
     background-repeat: repeat;
@@ -19,11 +20,13 @@ align-content: center;
         color: green; 
     background-color: rgb(239, 243, 246);width: fit-content;
 opacity: 0.8;
-padding: auto;}
+padding: auto;
+text-decoration: underline;
+}
 p{background-color:#f1f7f2 ;width: 1000px;height:fit-content;
 align-content: center; text-align: justify;
 border-color: #00ff59;
-border-radius: 0%;
+border-radius: 0100%;
 border-width: 200px; ;
 opacity: 0.8;
 font-weight: 300;
