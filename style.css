@@ -26,6 +26,7 @@ text-decoration: underline;
 p{background-color:rgb(235, 241, 243) ;width: 1400px;height:fit-content;
 align-content: center; text-align: justify;
 border-color: #00ff59;
+line-height: 40px;
 border-radius: 0%;
 border-width: 200px; ;
 opacity: 0.8;
