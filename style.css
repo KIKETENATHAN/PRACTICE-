@@ -33,16 +33,20 @@ padding: auto;
 text-decoration: underline;
 align-content: center;
 }
-p{background-color:rgb(235, 241, 243) ;width: 1400px;height:fit-content;
+p{
 align-content: center; text-align: justify;
 border-color: #00ff59;
-line-height: 40px;
+line-height: 30px;
 border-radius: 0%;
 border-width: 200px; ;
 opacity: 0.8;
-font-weight: 300;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font-style: oblique;
+font-weight: 20px;
+font-family: 'Times New Roman', Times, serif;
 padding-bottom: 200px;
+width: fit-content;
+height: fit-content;
 }
-  
+  ul{background-color: rgb(15, 235, 66);
+    opacity: 0.8;
+    width: 600; 
+}
