@@ -7,11 +7,18 @@ body {padding-left: 100px;
     font-size: larger;
 align-content: center;;
 }
+header{ 
+    font-size: 40px;
+    font-style: normal;
+padding-top: 100PX;
+padding-bottom: 100PX;
+color: #f1f6f3;
+text-align: center;
+}
 body {
     background-image: url("Agro.jpeg"),url("selpher.jpg");
     background-size: 50%, 50%;
     background-repeat: repeat;
-    background-clip: content-box;
     background-position: center;
     background-repeat: repeat-x, repeat-x;
     background-position: top, bottom;
@@ -23,6 +30,7 @@ body {
 opacity: 0.8;
 padding: auto;
 text-decoration: underline;
+align-content: center;
 }
 p{background-color:rgb(235, 241, 243) ;width: 1400px;height:fit-content;
 align-content: center; text-align: justify;
