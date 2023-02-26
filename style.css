@@ -7,13 +7,14 @@ body {padding-left: 100px;
     font-size: larger;
 align-content: center;;
 }
-header{ 
-    font-size: 40px;
+header{ position: -webkit-sticky;
+    font-size: 50px;
     font-style: normal;
-padding-top: 100PX;
+padding-top: 200PX;
 padding-bottom: 100PX;
-color: #f1f6f3;
+color: green;
 text-align: center;
+
 }
 body {
     background-image: url("Agro.jpeg"),url("selpher.jpg");
@@ -44,3 +45,4 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-style: oblique;
 padding-bottom: 200px;
 }
+  
