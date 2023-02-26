@@ -47,5 +47,5 @@ height: fit-content;
 }
   ul{background-color: rgb(15, 235, 66);
     opacity: 0.8;
-    width: 600; 
+   width: fit-content;
 }
