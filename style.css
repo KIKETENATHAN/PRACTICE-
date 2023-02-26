@@ -11,6 +11,7 @@ body {
     background-image: url("Agro.jpeg"),url("selpher.jpg");
     background-size: 50%, 50%;
     background-repeat: repeat;
+    background-clip: content-box;
     background-position: center;
     background-repeat: repeat-x, repeat-x;
     background-position: top, bottom;
