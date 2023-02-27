@@ -41,15 +41,15 @@ align-content: center; text-align: center;
 border-color: #00ff59;
 line-height: 30px;
 border-radius: 0%;
-border-width: 200px; ;
+border-width: 100px; ;
 font-weight: 20px;
 font-family: 'Times New Roman', Times, serif;
 padding-bottom: 200px;
 width: fit-content;
 height: fit-content;
 }
-  ul{background-color: rgb(194, 185, 25);
-    opacity: 0.8;
+  ul{background-color: rgb(88, 214, 228);
+    opacity: 1;
    width: fit-content;
    text-align: justify;
     list-style-type: none;
