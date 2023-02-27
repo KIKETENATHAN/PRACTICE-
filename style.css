@@ -2,7 +2,6 @@ body {padding-left: 50px;
     padding-right: 70px;
     padding-block-start: 100px;
     padding-bottom: 300px;
-    background-attachment: #00ff59;
     image-rendering: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
@@ -26,7 +25,6 @@ body {
  background-position: top;
  background-clip: inherit;   
  background-attachment: scroll;
- 
   }
  h1, h2, h3, h4, h5, h6 {
 text-align: center;
