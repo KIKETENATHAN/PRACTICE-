@@ -1,5 +1,5 @@
 body {padding-left: 50px;
-    padding-right: 70px;
+    padding-right: 50px;
     padding-block-start: 100px;
     padding-bottom: 100px;
     image-rendering: auto;
@@ -34,11 +34,9 @@ p{
 align-content: center; text-align: center;
 line-height: 20px;
 border-radius: 0%;
-border-width: 50px; ;
 font-weight: 10px;
 font-family: 'Times New Roman', Times, serif;
 padding-bottom: 50px;
-width: fit-content;
 height: fit-content;
 }
   ul{background-color: rgba(196, 191, 171, 0.796);
