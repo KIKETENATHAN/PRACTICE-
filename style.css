@@ -5,12 +5,12 @@ body {padding-left: 50px;
     image-rendering: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
-align-content: center;;
+align-content: center;
 }
 header{ position: -webkit-sticky;
     font-size: 30px;
     font-style: normal;
-padding-top: 100PX;
+padding-top: 250PX;
 padding-bottom: 100PX;
 color: green;
 text-align: center;
@@ -23,7 +23,8 @@ body {
  background-repeat: repeat-x;
  background-position: top;
  background-clip: inherit;   
- background-attachment: scroll;}
+ background-attachment: scroll;
+}
   h1, h2, h3, h4, h5, h6{
 text-align: center;
 color: green; ;
