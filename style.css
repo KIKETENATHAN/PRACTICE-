@@ -80,6 +80,14 @@ padding-left: 0px;
 text-align: center;
 font-weight: 100;
 font-size: large;
-
 }
-  
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 10px;
+}
+
+.column {
+  padding: 10px;
+  box-sizing: border-box;
+}
