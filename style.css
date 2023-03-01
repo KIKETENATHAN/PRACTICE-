@@ -23,15 +23,15 @@ body {
  background-repeat: repeat-x;
  background-position: top;
  background-clip: inherit;   
- background-attachment: scroll;
-}
- h1, h2, h3, h4, h5, h6 {
+ background-attachment: scroll;}
+  h1, h2, h3, h4, h5, h6{
 text-align: center;
 color: green; 
 background-color: rgb(223, 224, 221);width: fit-content;
 opacity: 0.8;
 padding: auto;
 text-decoration: underline;
+bac
 }
 p{
 align-content: center; text-align: center;
@@ -44,7 +44,7 @@ padding-bottom: 200px;
 width: fit-content;
 height: fit-content;
 }
-  ul{background-color: rgb(88, 214, 228);
+  ul{background-color: rgba(196, 191, 171, 0.796);
     opacity: 1;
    width: fit-content;
    text-align: justify;
@@ -71,7 +71,7 @@ text-align: center;
 line-height: 200%;
 }
 img {
-    border-radius: 50%;
+    border-radius: 20%;
   }
 div{align-content: center;
 align-items: center;
