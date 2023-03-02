@@ -7,10 +7,6 @@ p{
     }
 body {
   background-color:white;
- background-image: url("back2.jpg");
- background-size: cover;
- background-repeat: repeat;
- background-position: center;
  text-align: center;
 opacity: 1;
 }

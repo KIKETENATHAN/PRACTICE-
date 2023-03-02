@@ -1,6 +1,4 @@
 body {
-  padding-left: 50px;
-  padding-right: 50px;
   padding-block-start: 100px;
   padding-bottom: 200px;
   image-rendering: auto;
@@ -34,15 +32,7 @@ color: green; ;
 padding: auto;
 text-decoration: underline;
 }
-p{
-align-content: center; text-align: center;
-line-height: 20px;
-border-radius: 0%;
-font-weight: 10px;
-font-family: 'Times New Roman', Times, serif;
-padding-bottom: 50px;
-height: fit-content;
-}
+p{/* align-content: center; */text-align: center;/* line-height: 20px; */border-radius: 0%;font-weight: 10px;font-family: 'Times New Roman', Times, serif;padding-bottom: 50px;height: fit-content;}
   ul{background-color: rgba(196, 191, 171, 0.796);
     opacity: 1;
    width: fit-content;
