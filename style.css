@@ -16,12 +16,11 @@ text-align: center;
 }
 body {
   background-color:whitesmoke;
- background-image: url("Agro.jpeg");
- background-size: 50%;
- background-repeat: repeat;
- background-position: center;
- background-repeat: repeat-x;
- background-position: top;
+ background-image: url("Agro.jpeg"), url("My\ project-1\ \(12\).png");
+ background-size: 50%, 50%;
+ background-repeat: repeat,  repeat;
+ background-position: top, center;
+ background-repeat: repeat-x, repeat-y;
  background-clip: inherit;   
  background-attachment: scroll;
 }
