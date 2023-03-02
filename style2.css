@@ -4,7 +4,7 @@ p{
     text-align: center;
     line-height: 40px;
     font-weight: 80;
-    }
+  font-size:24px;}
 body {
   background-color:white; 
   background-image: url("coffe.jpg");
@@ -25,4 +25,14 @@ text-decoration: underline;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+button{
+  font-size: 45px;
+  font-style: normal;
+  background-color: rgb(40, 236, 30);
+}
+footer{
+  background-color: aqua;
+  font-size: 24px;
+
 }
