@@ -31,7 +31,12 @@ color: green; ;
 padding: auto;
 text-decoration: underline;
 }
-p{/* align-content: center; */text-align: center;/* line-height: 20px; */border-radius: 0%;font-weight: 10px;font-family: 'Times New Roman', Times, serif;padding-bottom: 50px;height: fit-content;}
+p{text-align: center;
+  border-radius: 0%;
+  font-weight: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-bottom: 50px;
+  height: fit-content;}
   ul{background-color: rgba(196, 191, 171, 0.796);
     opacity: 1;
    width: fit-content;
@@ -74,4 +79,13 @@ img {
 }
 columns{
   margin-right: 20px;
+}
+a {
+  color: #3498db;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+a:hover {
+  color: #e929bc;
+  text-decoration: underline;
 }
