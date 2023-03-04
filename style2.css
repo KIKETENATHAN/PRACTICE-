@@ -32,7 +32,7 @@ button{
   border: none;
   background-color: #3498db;
   color: hsl(0, 14%, 96%);
-  cursor: pointer;
+  cursor:pointer;
   transition: all 0.3s ease-in-out;
 }
 button:hover {
