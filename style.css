@@ -89,3 +89,6 @@ a:hover {
   color: #e929bc;
   text-decoration: underline;
 }
+a:checked {
+  color:crimson;
+}
