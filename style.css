@@ -83,12 +83,9 @@ columns{
 a {
   color: #3498db;
   text-decoration: none;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.0s ease-in-out;
 }
 a:hover {
   color: #e929bc;
   text-decoration: underline;
-}
-a:checked {
-  color:crimson;
 }
