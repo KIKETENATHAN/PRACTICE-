@@ -32,8 +32,8 @@ button{
   border: none;
   background-color: #3498db;
   color: hsl(0, 14%, 96%);
-  cursor:pointer;
-  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  transition: all 0.0s ease-in-out;
 }
 button:hover {
   box-shadow: 0px 0px 10px #dd09c7;
