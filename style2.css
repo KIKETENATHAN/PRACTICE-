@@ -4,7 +4,9 @@ p{
     text-align: center;
     line-height: 40px;
     font-weight: 80;
-  font-size:24px;}
+  font-size:24px;
+ 
+}
 body {
   background-color:white; 
   background-image: url("coffe.jpg");
@@ -20,6 +22,8 @@ text-align: center;
 color: rgb(64, 27, 227); ;
 padding: auto;
 text-decoration: underline;
+background-color: rgb(238, 131, 200); 
+display:inline-flex;
 }
 .image-container {
   display: flex;
@@ -36,11 +40,19 @@ button{
   transition: all 0.0s ease-in-out;
 }
 button:hover {
-  box-shadow: 0px 0px 10px #dd09c7;
+  box-shadow: 0px 0px 10px #f6c9f2;
   background-color: #2980b9;
 }
 
 footer{
   background-color: aqua;
   font-size: 24px;
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+  font-style: italic;
+  background-color: rgb(231, 250, 146);
 }
