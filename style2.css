@@ -22,8 +22,6 @@ text-align: center;
 color: rgb(64, 27, 227); ;
 padding: auto;
 text-decoration: underline;
-background-color: rgb(238, 131, 200); 
-display:inline-flex;
 }
 .image-container {
   display: flex;
