@@ -1,8 +1,12 @@
+body{
+    background-color:blanchedalmond;
+}
 .card {
     box-shadow: 0 4px 8px 0 rgba(198, 234, 57, 0.2);
     max-width: 300px;
     margin: auto;
     text-align: center;
+    background-color: rgb(168, 244, 218);
   }
   
   .title {
