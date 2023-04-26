@@ -11,16 +11,16 @@ header{ position: -webkit-sticky;
     font-style: normal;
 padding-top: 250PX;
 padding-bottom: 100PX;
-color: green;
+color: #64766A;
 text-align: center;
 }
 body {
-  background-color:whitesmoke;
- background-image: url("Agro.jpeg"), url("My\ project-1\ \(12\).png");
- background-size: 50%, 50%;
- background-repeat: repeat,  repeat;
- background-position: top, center;
- background-repeat: repeat-x, repeat-y;
+  background-color:#FAF2F3;
+ background-image: url("Agro.jpeg");
+ background-size:50%;
+ background-repeat: repeat;
+ background-position: top;
+ background-repeat: repeat-x;
  background-clip: inherit;   
  background-attachment: scroll;
 
@@ -28,7 +28,7 @@ body {
   h1, h2, h3, h4, h5, h6
   {
 text-align: center;
-color: green; ;
+color:#541412; 
 padding: auto;
 text-decoration: underline;
 }
@@ -50,13 +50,14 @@ p{text-align: center;
     margin: 5px;
   }
     li{float: left;
-        padding-left: 100px;
+        padding-left: 150px;
+        font-size: larger;
 }
 img{float: center;}
 footer{
 padding-bottom: 100px;
 padding-top: 100px;
-background-color: rgb(118, 189, 240);
+background-color: rgb(118, 240, 236);
 font-size: medium;
 align-items: center;
 align-content: center;
@@ -81,11 +82,11 @@ columns{
   margin-right: 20px;
 }
 a {
-  color: #3498db;
+  color: green;
   text-decoration: none;
   transition: all 0.0s ease-in-out;
 }
 a:hover {
-  color: #e929bc;
+  color: #541412;
   text-decoration: underline;
 }
