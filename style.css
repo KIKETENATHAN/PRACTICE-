@@ -113,7 +113,7 @@ a:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding: 5px;
   background: none;
   color: rgb(182, 218, 233);
 }
