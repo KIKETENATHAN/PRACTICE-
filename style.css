@@ -145,7 +145,7 @@ a:hover {
   height: 2px;
   bottom: -5px;
   left: 0;
-  background-color:rgb(221, 63, 38);
+  background-color:black;
   visibility: hidden;
   transform: scaleX(1);
   transition: all 0.1s ease-in-out 0s;
