@@ -11,13 +11,13 @@ header{ position: -webkit-sticky;
     font-style: normal;
 padding-top: 20PX;
 padding-bottom: 20PX;
-color: #3ed614;
+color: #FFB400;
 text-align: center;
 }
   h1, h2, h3, h4, h5, h6
   {
 text-align: center;
-color:#541412; 
+color:#FF6C02; 
 padding: auto;
 text-decoration: underline;
 }
@@ -99,6 +99,7 @@ a:hover {
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   overflow: hidden;
+  background-color: #FFF9E9;
   
 }
 
