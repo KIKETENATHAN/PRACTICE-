@@ -11,13 +11,13 @@ header{ position: -webkit-sticky;
     font-style: normal;
 padding-top: 20PX;
 padding-bottom: 20PX;
-color: #FFB400;
+color: #FF6C02;
 text-align: center;
 }
   h1, h2, h3, h4, h5, h6
   {
 text-align: center;
-color:#FF6C02; 
+color:#541412; 
 padding: auto;
 text-decoration: underline;
 }
