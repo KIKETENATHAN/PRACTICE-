@@ -97,7 +97,7 @@ a:hover {
   width: 100%;
   max-width: 300px;
   border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 12px 8px 0 #541412;
   overflow: hidden;
   background-color: #FFF9E9;
   
@@ -105,7 +105,7 @@ a:hover {
 
 .card:hover {
   transform: scale(1.05);
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px 0 #548100;
 }
 
 .card img {
@@ -135,7 +135,7 @@ a:hover {
 }
 
 .nav-links a {
-  color:white;
+  color:#541412;
   text-decoration:none;
   font-size: 28px;
   font-weight: bold;
@@ -149,7 +149,7 @@ a:hover {
   height: 2px;
   bottom: -5px;
   left: 0;
-  background-color:black;
+  background-color:#FFB400;
   visibility: hidden;
   transform: scaleX(1);
   transition: all 0.1s ease-in-out 0s;
