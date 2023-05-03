@@ -46,7 +46,7 @@ img{float: center;}
 footer{
 padding-bottom: 100px;
 padding-top: 100px;
-background-color: rgb(118, 240, 236);
+background-color: white;
 font-size: medium;
 align-items: center;
 align-content: center;
@@ -56,7 +56,8 @@ line-height: 200%;
 img {
     border-radius: 0%;
   }
-div{align-content: center;
+div{
+align-content: center;
 align-items: center;
 text-align: center;
 padding-left: 0px;
@@ -83,6 +84,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  
 }
 
 .card-group {
@@ -97,6 +99,7 @@ a:hover {
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   overflow: hidden;
+  
 }
 
 .card:hover {
