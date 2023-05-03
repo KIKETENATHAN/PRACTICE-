@@ -8,7 +8,7 @@ p{
  
 }
 body {
-  background-color:white; 
+  background-color:#bacec1; 
 }
 h1, h2, h3, h4, h5, h6
 {
@@ -38,7 +38,7 @@ button:hover {
 
 footer{
   background-color: aqua;
-  font-size: 24px;
+  font-size: 20px;
 }
 .navbar {
   display: flex;
@@ -116,12 +116,13 @@ a:hover {
   width: 100%;
   max-width: 300px;
   border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 black;
   overflow: hidden;
+  background-color:#f6f4e8;
 }
 .card:hover {
   transform: scale(1.05);
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px 0 black;
 }
 .card img {
   width: 100%;
