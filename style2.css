@@ -56,3 +56,56 @@ aside {
   background-color: rgb(231, 250, 146);
   flex-direction: column;
 }
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  background: none;
+  color: rgb(182, 218, 233);
+}
+
+.nav-links {
+  flex-basis: 25%;
+  text-align: center;
+}
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-basis: 50%;
+  margin: 0 auto;
+}
+
+.nav-links a {
+  color:white;
+  text-decoration:none;
+  font-size: 28px;
+  font-weight: bold;
+  position: relative;
+}
+
+.nav-links a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: -5px;
+  left: 0;
+  background-color:black;
+  visibility: hidden;
+  transform: scaleX(1);
+  transition: all 0.1s ease-in-out 0s;
+}
+.nav-links a:hover:before {
+  visibility: visible;
+  transform: scaleX(1);
+}
+
+.link1,
+.link2,
+.link3,
+.link4 {
+  flex-basis: 25%;
+  text-align: center;
+}
