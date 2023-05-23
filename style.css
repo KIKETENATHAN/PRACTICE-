@@ -99,7 +99,7 @@ a:hover {
   border-radius: 10px;
   box-shadow: 0 12px 8px 0 #541412;
   overflow: hidden;
-  background-color: #FFF9E9;
+  background-color: #e8eceb;
   
 }
 
@@ -118,8 +118,8 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   padding: 5px;
-  background: none;
-  background-color: rgb(16, 146, 25);
+  background:none;
+  background-color: #8cbdb9;
   position: fixed;
   top: 0;
   left: 0;
@@ -141,8 +141,7 @@ a:hover {
 .nav-links a {
   color:#541412;
   text-decoration:none;
-  font-size: 28px;
-  font-weight: bold;
+  font-size: 20px;
   position: relative;
 }
 
@@ -153,7 +152,7 @@ a:hover {
   height: 2px;
   bottom: -5px;
   left: 0;
-  background-color:#FFB400;
+  background-color:#4800ff;
   visibility: hidden;
   transform: scaleX(1);
   transition: all 0.1s ease-in-out 0s;
@@ -192,10 +191,10 @@ a:hover {
 /*image with words in background*/
 .image-section {
   position: relative;
-  background-image: url('KIKETE.png');
+  background-image: url('loquat.jpg');
   background-size: cover;
   background-position: center;
-  height: 400px; /* Adjust the height as needed */
+  height: 450px; /* Adjust the height as needed */
 }
 
 .image-overlay {
@@ -208,18 +207,18 @@ a:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.6); /* Adjust the opacity as needed */
+  background-color: rgba(0, 0, 0, 0.2); /* Adjust the opacity as needed */
   color: white;
   padding: 20px;
   text-align: center;
 }
 
-.image-overlay h2 {
-  font-size: 28px;
+.image-overlay h1 {
+  font-size: 48px;
   margin-bottom: 10px;
 }
 
 .image-overlay p {
-  font-size: 16px;
+  font-size: 26px;
 }
 /*end of background image overlay*/
