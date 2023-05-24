@@ -95,7 +95,7 @@ a:hover {
 .card {
   margin: 10px;
   width: 100%;
-  max-width: 300px;
+  max-width: 80%;
   border-radius: 10px;
   box-shadow: 0 12px 8px 0 #541412;
   overflow: hidden;
